@@ -116,7 +116,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="完美立方.cpp" />
+    <ClCompile Include="熄灯问题.cpp" />
     <ClCompile Include="生理周期.cpp" />
+    <ClCompile Include="称硬币.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -21,5 +21,11 @@
     <ClCompile Include="生理周期.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="称硬币.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="熄灯问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
